@@ -1,4 +1,4 @@
-# Algorithms_of_business_decision_3
+# Algorithms of business decision: week 3
 
 
 Regarding algorithms based on the decision tree, as noted, they have upgraded to CART, which currently looks the best of all previous ones.
